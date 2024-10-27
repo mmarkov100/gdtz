@@ -1,0 +1,22 @@
+services:
+  db:
+    container_name: bank_deposit
+    image: postgres:17.0
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: 1234
+      PGDATA: /data/bank_deposit
+    volumes:
+      - db:/data/bank_deposit
+    ports:
+      - "5333:5432"
+    networks:
+      - db
+    restart: unless-stopped
+
+networks:
+  db:
+    driver: bridge
+
+volumes:
+  db:
