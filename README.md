@@ -9,3 +9,5 @@ http://localhost:8080/api/banks/id  --  просмотр 1 банка
 http://localhost:8080/api/deposits  -- просмотр всех депозитов
 
 http://localhost:8080/api/deposits/id  --  просмотр 1 депозита
+
+Тестовое задание в релизах
