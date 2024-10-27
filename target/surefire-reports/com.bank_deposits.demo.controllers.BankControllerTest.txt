@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bank_deposits.demo.controllers.BankControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.511 s -- in com.bank_deposits.demo.controllers.BankControllerTest

@@ -1,0 +1,10 @@
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\controllers\BankController.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\controllers\ClientController.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\controllers\DepositController.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\DemoApplication.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\entities\Bank.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\entities\Client.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\entities\Deposit.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\repos\BankRepository.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\repos\ClientRepository.java
+D:\learn\code\java\test1\demo (1)\bank_depo\src\main\java\com\bank_deposits\demo\repos\DepositRepository.java
